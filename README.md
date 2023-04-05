@@ -45,4 +45,7 @@
 
 <h3 align="center">👯 I’m looking to collaborate on: data-driven projects or web development projects with a social impact</h3>
 
-<h3
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="mailto:kapilchn7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail
+or connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a>
