@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Kapil-Chn7/Kapil-Chn7/blob/main/assets/Ai_image.gif](https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" width="250" height="250"/>
+  <img src="[https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" width="250" height="250"/>
 </p>
 
 <h1 align="center"><span>Hi there, I'm Kapil Chauhan </span><span><p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p></span></h1>
