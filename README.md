@@ -47,5 +47,6 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:kapilchn7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail
-or connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a>
+Connect with me on [GitHub](https://github.com/Kapil-Chn7) or [LinkedIn](https://www.linkedin.com/in/kapilchauhan200/), or send me an email at kapilchn7@gmail.com.
+
+</p>
