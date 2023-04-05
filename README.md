@@ -2,11 +2,7 @@
   <img src="https://github.com/Kapil-Chn7/Kapil-Chn7/blob/main/assets/Ai_image.gif" width="250" height="250"/>
 </p>
 
-<h1 align="center"><span>Hi there, I'm Kapil Chauhan </span>
-  <span><p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</p></span>
-</h1>
+<h1 align="center"><span>Hi there, I'm Kapil Chauhan </span><span><p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p></span></h1>
 
 <h3 align="center">A data science enthusiast and full-stack developer currently pursuing my Bachelor's degree in IT from Guru Gobind Singh Indraprasth University in Delhi, India. </h3>
 
