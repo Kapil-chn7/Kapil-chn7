@@ -45,4 +45,4 @@
 
 <h3 align="center">👯 I’m looking to collaborate on: data-driven projects or web development projects with a social impact</h3>
 
-<h3 align="center">📫 How to reach me: connect with me on <a href="https://github.com/Kapil-Chn7">GitHub</a> or send me an email at <a href="mailto:kapilchn7@gmail.com">kapil
+<h3
