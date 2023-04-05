@@ -1,4 +1,4 @@
-##Hi there, I'm Kapil Chauhan 👋
+Hi there, I'm Kapil Chauhan 👋
 I'm a data science enthusiast and full-stack developer currently pursuing my Bachelor's degree in IT from Guru Gobind Singh Indraprasth University in Delhi, India. I'm passionate about using data to gain insights and create impactful solutions, and I love building projects that combine my skills in both data science and web development.
 
 🔭 I’m currently working on: a data visualization dashboard using React, D3.js, and Flask
