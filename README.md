@@ -2,13 +2,15 @@
   <img src="https://github.com/Kapil-Chn7/Kapil-Chn7/blob/main/assets/Ai_image.gif" width="250" height="250"/>
 </p>
 
-<h1 align="center">Hi there, I'm Kapil Chauhan 👋</h1>
-
-<h3 align="center">A data science enthusiast and full-stack developer currently pursuing my Bachelor's degree in IT from Guru Gobind Singh Indraprasth University in Delhi, India. </h3>
-
+<h1 align="center">Hi there, I'm Kapil Chauhan 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
+</h1>
+
+<h3 align="center">A data science enthusiast and full-stack developer currently pursuing my Bachelor's degree in IT from Guru Gobind Singh Indraprasth University in Delhi, India. </h3>
+
+
 
 <h3 align="center">Passionate about using data to gain insights and create impactful solutions, and love building projects that combine my skills in both data science and web development.</h3>
 
