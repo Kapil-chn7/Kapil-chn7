@@ -46,7 +46,5 @@
 <h3 align="center">👯 I’m looking to collaborate on: data-driven projects or web development projects with a social impact</h3>
 
 <h3 align="center">📫 How to reach me:</h3>
-<p align="center">
-Connect with me on [GitHub](https://github.com/Kapil-Chn7) or [LinkedIn](https://www.linkedin.com/in/kapilchauhan200/), or send me an email at kapilchn7@gmail.com.
-
+<p align="center">Connect with me on <a href="https://github.com/Kapil-Chn7">GitHub</a> or <a href="https://www.linkedin.com/in/kapilchauhan200/">LinkedIn</a>, or send me an email at <a href="mailto:kapilchn7@gmail.com">kapilchn7@gmail.com</a>.
 </p>
