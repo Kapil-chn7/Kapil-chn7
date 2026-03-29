@@ -10,6 +10,7 @@
 Backend Engineer • Distributed Systems • Cloud & Scalable Architectures
 </h3>
 
+
 ---
 
 <!-- About -->
@@ -37,16 +38,18 @@ Currently working on <b>autonomous robotic systems</b> and exploring <b>distribu
 ---
 
 <!-- Stats -->
-
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kapil-Chn7&theme=tokyonight" />
-</p>
+</p> -->
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapil-Chn7&theme=tokyonight" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kapil-Chn7&theme=tokyonight" />
 </p>
+
+
 
 ---
 
