@@ -1,49 +1,106 @@
+<!-- Banner / GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
+<!-- Heading -->
+<h1 align="center">Hi 👋, I'm Kapil Chauhan</h1>
 
-<h1 align="center"><span>Hi there, I'm Kapil Chauhan </span><span><p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p></span></h1>
+<h3 align="center">
+Backend Engineer • Distributed Systems • Cloud & Scalable Architectures
+</h3>
 
-<h3 align="center">A data science enthusiast and full-stack developer currently pursuing my Bachelor's degree in IT from Guru Gobind Singh Indraprasth University in Delhi, India. </h3>
+---
 
+<!-- About -->
+<p align="center">
+I build high-performance backend systems, scalable microservices, and cloud-native applications.<br/>
+Currently working on <b>autonomous robotic systems</b> and exploring <b>distributed systems + AI (LLMs & RAG)</b>.
+</p>
 
+---
 
-<h3 align="center">Passionate about using data to gain insights and create impactful solutions, and love building projects that combine my skills in both data science and web development.</h3>
+<!-- Tech Stack -->
+<h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue">
-  <img src="https://img.shields.io/badge/C++-Intermediate-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-blue">
-  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-blue">
-  <img src="https://img.shields.io/badge/Huggingface-Intermediate-blue">
-  <img src="https://img.shields.io/badge/Deep Learning-Intermediate-blue">
-  <img src="https://img.shields.io/badge/scikit_learn-Intermediate-blue">
-  <img src="https://img.shields.io/badge/Pandas-Intermediate-blue">
-  <img src="https://img.shields.io/badge/NumPy-Intermediate-blue">
-  <img src="https://img.shields.io/badge/NodeJs-Intermediate-blue">
-  <img src="https://img.shields.io/badge/React-Intermediate-blue">
-  <img src="https://img.shields.io/badge/VueJs-Intermediate-blue">
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-blue">
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-blue">
-  <img src="https://img.shields.io/badge/GCP-Intermediate-blue">
-  <img src="https://img.shields.io/badge/Jenkins-Intermediate-blue">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,nodejs,react,nextjs,aws,docker,kubernetes,kafka,redis" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kapil-Chn7&show_icons=true" alt="Kapil-Chn7">
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange">
+  <img src="https://img.shields.io/badge/Grafana-Dashboard-orange">
+  <img src="https://img.shields.io/badge/LLMs-AI-blueviolet">
+  <img src="https://img.shields.io/badge/RAG-Systems-blueviolet">
+</p>
+
+---
+
+<!-- Stats -->
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kapil-Chn7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-Chn7&layout=compact" alt="Kapil-Chn7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kapil-Chn7&theme=tokyonight" />
 </p>
 
-<h3 align="center">🔭 I’m currently working on: a data visualization dashboard using React, D3.js, and Flask</h3>
+---
 
-<h3 align="center">🌱 I’m currently learning: machine learning algorithms and neural networks</h3>
+<!-- Experience -->
+<h3 align="center">💼 Experience</h3>
 
-<h3 align="center">👯 I’m looking to collaborate on: data-driven projects or web development projects with a social impact</h3>
+<p align="center">
+🚀 <b>Founding Software Engineer — BlueFetch Robotics</b><br/>
+Building software for autonomous robotic systems, focusing on backend services and scalable architectures.
+</p>
 
-<h3 align="center">📫 How to reach me:</h3>
-<p align="center">Connect with me on <a href="https://github.com/Kapil-Chn7">GitHub</a> or <a href="https://www.linkedin.com/in/kapilchauhan200/">LinkedIn</a>, or send me an email at <a href="mailto:kapilchn7@gmail.com">kapilchn7@gmail.com</a>.
+<p align="center">
+💻 <b>Software Developer — Tata Consultancy Services</b><br/>
+Worked on large-scale microservices, airline platforms, performance optimization, and AI solutions using LLMs & RAG.
+</p>
+
+<p align="center">
+🌐 <b>Software Developer — Neonflake</b><br/>
+Built full-stack applications, CMS platforms, and scalable backend systems with cloud deployment.
+</p>
+
+---
+
+<!-- Achievements -->
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
+Solved <b>400+ DSA problems</b> on LeetCode & GeeksforGeeks.
+</p>
+
+---
+
+<!-- Current Work -->
+<h3 align="center">🚧 Currently</h3>
+
+<p align="center">
+🔭 Building backend systems for autonomous robots<br/>
+🌱 Learning distributed systems & advanced system design<br/>
+🤝 Open to backend & system design collaborations
+</p>
+
+---
+
+<!-- Connect -->
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://github.com/Kapil-Chn7">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/kapilchauhan200/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kapilchn7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
 </p>
